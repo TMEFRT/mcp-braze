@@ -41,7 +41,7 @@ Similar to other campaigns, you can limit the number of times a particular user 
 
 The MCP Braze integration provides tools to interact with these endpoints. Here's how you can use them:
 
-### Configuring the Braze API
+### Configuring Braze API
 
 Before using any messaging endpoints, you need to configure the Braze API with your credentials:
 
@@ -82,12 +82,12 @@ To schedule messages for future delivery:
         "external_user_ids": ["user1", "user2"]
     },
     "schedule": {
-        "time": "2024-04-01T12:00:00Z"
+        "time": "2023-12-25T15:00:00Z"
     },
     "message": {
         "email": {
-            "subject": "Your Scheduled Subject",
-            "body": "Your scheduled email content here"
+            "subject": "Holiday Greetings",
+            "body": "Happy Holidays from our team!"
         }
     }
 }
