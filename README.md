@@ -1,6 +1,6 @@
 # MCP Braze Integration
 
-A Machine Code Protocol (MCP) integration for Braze's REST API, allowing you to manage catalogs, emails, segments, and more through a simple interface.
+A Model context Protocol (MCP) integration for Braze's REST API, allowing you to manage catalogs, emails, segments, and more through a simple interface.
 
 ## Features
 
